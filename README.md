@@ -17,6 +17,9 @@ Dynamic analysis generated an initial set of 28,004 unique behavioural features,
 
 
 
+<img width="2402" height="2990" alt="Family Distribution" src="https://github.com/user-attachments/assets/f9702364-105b-4358-8b2b-5f6467250d0d" />
+
+
 # Disclaimer!
 
 All ransomware analyses were conducted in controlled sandbox environments. This repository does not distribute raw binaries. However, we provide the hashes of the samples and complete metadata to help in downloading the samples. Researchers are advised to follow appropriate safety protocols when working with malware and to comply with their institution’s ethical and legal standards.

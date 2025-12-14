@@ -4,7 +4,7 @@ Abstract: Ransomware remains a significant cyber threat, yet research is often h
 
 # Dataset Description
 
-The CerebRAN dataset is a balanced collection of behavioural indicators designed for training and evaluating machine learning-based ransomware detectors. The dataset was created by performing dynamic analysis on 799 unique software samples in a Cuckoo Sandbox environment running a Windows 10 guest.
+The CerebRAN dataset is a balanced collection of behavioural indicators designed for training and evaluating machine learning-based ransomware detectors. The dataset was created by performing dynamic analysis on 799 unique software samples in a Cuckoo Sandbox environment running a Windows 7 guest.
 
 The dataset comprises:
 
